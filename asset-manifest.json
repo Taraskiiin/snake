@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/snake/static/css/main.d0c951e1.chunk.css",
+    "main.js": "/snake/static/js/main.64797b74.chunk.js",
+    "main.js.map": "/snake/static/js/main.64797b74.chunk.js.map",
+    "runtime-main.js": "/snake/static/js/runtime-main.cc1a9ef3.js",
+    "runtime-main.js.map": "/snake/static/js/runtime-main.cc1a9ef3.js.map",
+    "static/js/2.f7d4ba49.chunk.js": "/snake/static/js/2.f7d4ba49.chunk.js",
+    "static/js/2.f7d4ba49.chunk.js.map": "/snake/static/js/2.f7d4ba49.chunk.js.map",
+    "index.html": "/snake/index.html",
+    "precache-manifest.90df11ac922f5b6e75b8d499ec14899c.js": "/snake/precache-manifest.90df11ac922f5b6e75b8d499ec14899c.js",
+    "service-worker.js": "/snake/service-worker.js",
+    "static/css/main.d0c951e1.chunk.css.map": "/snake/static/css/main.d0c951e1.chunk.css.map",
+    "static/js/2.f7d4ba49.chunk.js.LICENSE.txt": "/snake/static/js/2.f7d4ba49.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/snake/static/media/snakeman.5ec0a58b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc1a9ef3.js",
+    "static/js/2.f7d4ba49.chunk.js",
+    "static/css/main.d0c951e1.chunk.css",
+    "static/js/main.64797b74.chunk.js"
+  ]
+}
